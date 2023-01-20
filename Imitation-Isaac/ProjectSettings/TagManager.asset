@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - Tear
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 3783427871
+    locked: 0
+  - name: mid-back
+    uniqueID: 3036157331
+    locked: 0
+  - name: mid-mid
+    uniqueID: 3269249933
+    locked: 0
+  - name: mid-front
+    uniqueID: 2656883803
+    locked: 0
+  - name: forward-back
+    uniqueID: 3084528819
+    locked: 0
+  - name: forward-mid
+    uniqueID: 1269622989
+    locked: 0
+  - name: forward-forward
+    uniqueID: 3094022101
+    locked: 0
